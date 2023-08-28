@@ -1,4 +1,4 @@
-# Iosevka Fixed SS07 WebFont 26.2.1
+# Iosevka Fixed SS07 WebFont 26.2.2
 
 ## How to use
 
